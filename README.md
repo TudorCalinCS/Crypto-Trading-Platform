@@ -1,2 +1,2 @@
-Tech: C#, MySQL
+Tech: C#, Microsoft SQL Server
 IDE: Visual Studio
