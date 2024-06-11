@@ -7,6 +7,7 @@ This project was created as part of my professional competency certification bef
 **Competencies Acquired**:
   - Designing and structuring software products necessary for the implementation of software systems, applications, databases, and web pages (client-oriented software).
   - Customizing, configuring, and modifying software applications to adapt the client’s informational systems.
+
 ## Features
 
 - **User Authentication**: Create a new account or log in if you already have one.
@@ -23,10 +24,15 @@ This project was created as part of my professional competency certification bef
 - **Frontend**: Developed using Visual Studio Windows Forms with C#.
 - **Backend**: Microsoft SQL Server for the database.
 
-  ## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
-![Screenshot 4](path/to/screenshot1.png)
-![Screenshot 5](path/to/screenshot2.png)
-![Screenshot 6](path/to/screenshot3.png)
+## Screenshots
+![Screenshot 1](https://github.com/TudorCalinCS/Crypto-Trading-Platform/assets/128086342/b4947046-f48c-46df-b985-435680cf2b31)
+![Screenshot 7](https://github.com/TudorCalinCS/Crypto-Trading-Platform/assets/128086342/3bf0fd0b-9733-4c0a-a228-ca825466a1bb)
+![Screenshot 6](https://github.com/TudorCalinCS/Crypto-Trading-Platform/assets/128086342/f62c07d6-f642-4600-a547-88cf025753e3)
+![Screenshot 5](https://github.com/TudorCalinCS/Crypto-Trading-Platform/assets/128086342/e9c808e7-fe02-4ccf-9a3e-dc8dc9d99f79)
+![Screenshot 4](https://github.com/TudorCalinCS/Crypto-Trading-Platform/assets/128086342/190af9dd-d615-4552-a083-f55229862f24)
+![Screenshot 3](https://github.com/TudorCalinCS/Crypto-Trading-Platform/assets/128086342/612a4726-398d-443e-ac18-79366e959ddb)
+![Screenshot 2](https://github.com/TudorCalinCS/Crypto-Trading-Platform/assets/128086342/12bb3c12-a37e-4cc7-bd63-7a7464336625)
+
+
+
+
