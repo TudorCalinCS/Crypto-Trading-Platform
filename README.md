@@ -13,7 +13,7 @@ This project was created as part of my professional competency certification bef
 - **User Authentication**: Create a new account or log in if you already have one.
 - **Wallet Management**: View your wallet with all cryptocurrencies and fiat currencies.
 - **Fiat Account Funding**: Fund your fiat accounts (EUR, USD, RON) using a real card.
-- **Crypto Purchase**: Buy cryptocurrencies using your fiat balance.
+- **Crypto Purchase**: Buy cryptocurrencies(prices are constantly changing) using your fiat balance.
 - **Trading**: Trade between cryptocurrencies and fiat balance.
 - **Transfers**: Send cryptocurrencies or fiat balance to any other user. The recipient will receive a notification and can accept or decline the transfer.
 - **Transaction History**: View the history of all your transactions.
